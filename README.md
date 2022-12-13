@@ -1,4 +1,4 @@
-# Estrutura-De-Dados-2-Trabalho2
+# Estrutura De Dados 2 - Trabalho 2
 
 ## O programa deve organizar as palavras em uma árvore PATRICIA, considerando as suas representações binárias. 
 
